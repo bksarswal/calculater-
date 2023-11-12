@@ -1,0 +1,23 @@
+#container{
+    width: 200px;
+    background: aliceblue;
+    margin: 0 auto;
+}
+#display{
+    width: 85%;
+    margin: 10% ;
+}
+.button-conataner{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: 0 5%;
+
+}
+button{
+    width: 40%;
+    height: 40%;
+    margin: 2px;
+}
+
+
